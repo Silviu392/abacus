@@ -20,5 +20,5 @@ class Compute:
           return
         product = 1
         for item in self.operands:
-            sum *= item
-            print(sum)
+            product *= item
+            print(product)
