@@ -23,7 +23,8 @@ class Compute:
             product *= item
             print(product)
 
-            def exponent(self):
+           
+
+ def exponent(self):
                 num_exponent = self.operands ** self.operands[1]
                 print(num_exponent)
-
