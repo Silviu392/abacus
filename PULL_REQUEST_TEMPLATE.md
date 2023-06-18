@@ -5,7 +5,6 @@ What is the acceptance criteria for the proposed solution?
 ### Merging checklist
 
 [] PR Approved
-
 [] All checkd pass
 [] Arhitecture changes approved
-[] Manual test approved
+[] Manual test approved test screenshots attached.
