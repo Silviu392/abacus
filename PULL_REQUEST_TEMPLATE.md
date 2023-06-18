@@ -8,4 +8,4 @@ What is the acceptance criteria for the proposed solution?
 
 [] All checkd pass
 
-[] Manual test approved
+[] Manual test approved test screenshots attached.
