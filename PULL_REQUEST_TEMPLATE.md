@@ -7,5 +7,5 @@ What is the acceptance criteria for the proposed solution?
 [] PR Approved
 
 [] All checkd pass
-
+[] Arhitecture changes approved
 [] Manual test approved
